@@ -1,6 +1,6 @@
 # spinUp51200E
 <div align='center'>
-<img src="DB1E2A6A-9378-467F-BA17-A65EB1F1D746.JPG" width=75% height=75% alt="award">
+![Tug Pic](DB1E2A6A-9378-467F-BA17-A65EB1F1D746.JPG)
 </div>
 
 ## Overview
