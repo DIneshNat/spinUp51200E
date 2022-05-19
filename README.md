@@ -1,6 +1,6 @@
 # spinUp51200E
 <div align='center'>
-<img src="Screen Shot 2022-05-18 at 10.51.16 PM.png" alt="Alt text" title="Optional title">
+<img src="Screen Shot 2022-05-18 at 10.51.16 PM.png" alt="Tug Against 46T" title="Tug Pic">
 </div>
 
 ## Overview
